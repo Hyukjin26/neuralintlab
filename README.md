@@ -1,2 +1,2 @@
 # neuralintlab
-My profile repository
+Hello I'm Gachon university student
